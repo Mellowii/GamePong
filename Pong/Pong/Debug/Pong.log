@@ -1,0 +1,9 @@
+﻿  Pong.cpp
+D:\DoHoa\Pong\Pong\Pong.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\DoHoa\Pong\Pong\Pong.cpp(97,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\DoHoa\Pong\Pong\Pong.cpp(111,51): warning C4244: '=': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Pong.vcxproj -> D:\DoHoa\Pong\Debug\Pong.exe
